@@ -1,6 +1,6 @@
 writeCode
 
-Refine the `level 2 assignment` from previous chaptor to include
+Refine the  `level 2 assignment` from previous chaptor to include
 
 - comments for each article
 - comments can be edited/deleted
